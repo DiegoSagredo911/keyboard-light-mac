@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>keyboard-light</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.diegos.keyboard-light-mac</string>
+    <key>CFBundleName</key>
+    <string>Keyboard Light</string>
+    <key>CFBundleDisplayName</key>
+    <string>Keyboard Light Mac</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Keyboard Light Mac necesita acceso al micrófono para sincronizar la iluminación del teclado con la música o sonidos ambientales.</string>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>Keyboard Light Mac necesita acceso para capturar el audio del sistema y hacer que el teclado baile al ritmo de la música que reproduces.</string>
+</dict>
+</plist>
